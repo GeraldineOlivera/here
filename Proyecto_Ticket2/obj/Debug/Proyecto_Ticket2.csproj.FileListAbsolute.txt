@@ -1,0 +1,14 @@
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\bin\Debug\Proyecto_Ticket2.exe.config
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\bin\Debug\Proyecto_Ticket2.exe
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\bin\Debug\Proyecto_Ticket2.pdb
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.csproj.AssemblyReference.cache
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.Asignacion.resources
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.Form1.resources
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.Login.resources
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.Properties.Resources.resources
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.Solicitud_Ticket.resources
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.View_Tecnicos.resources
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.csproj.GenerateResource.cache
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.csproj.CoreCompileInputs.cache
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.exe
+C:\Users\geraldine.tejada\Documents\ProyectoVisual\Proyecto_Ticket2\obj\Debug\Proyecto_Ticket2.pdb
